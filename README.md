@@ -6,22 +6,22 @@ I bridge the gap between technical architecture and business strategy. With a st
 
 My philosophy is simple: **Build fast, validate faster, and scale smartly.**
 
-### 🚀 What I Bring to the Table
+### What I Bring to the Table
 * **Rapid MVP Delivery:** Turning ideas into functional prototypes in days, not months, using AI-assisted development.
 * **Product Strategy & Roadmap:** Aligning technical execution with business value, ROI, and user experience (UX).
 * **Cross-Functional Leadership:** Bridging the communication gap between engineering teams, stakeholders, and business units.
 * **SaaS & Compliance Tech:** Architecting scalable B2B solutions with a focus on data integrity and European standards.
 
-### 🧠 My "Vibe Coding" & PM Stack
+### My "Vibe Coding" & PM Stack
 While I focus on product strategy, I am deeply technical and build using:
 * **AI & Orchestration:** Claude, Antigravity, Cursor, OpenWolf, RAG architectures
 * **Core Tech:** Python, Rust, Node.js (for rapid backend microservices)
 * **Databases & Cloud:** Supabase, PostgreSQL
 * **PM & Ops:** Agile/Scrum methodologies, Jira Administration & Corporate Project Portfolio Management, BizDevOps pipelines
 
-### 🔭 Currently Working On
-* 🌍 **AI-Driven Market Intelligence:** Architecting data pipelines for predictive analytics in the pharmaceutical sector.
-* ⚙️ **SaaS Governance Automation:** Building a centralized platform to streamline B2B compliance workflows.
-* ⚡ **Micro-Tools for UX:** Developing AI-powered scraping and document processing microservices.
+### Currently Working On
+* **AI-Driven Market Intelligence:** Architecting data pipelines for predictive analytics in the pharmaceutical sector.
+* **SaaS Governance Automation:** Building a centralized platform to streamline B2B compliance workflows.
+* **Micro-Tools for UX:** Developing AI-powered scraping and document processing microservices.
 
 Let's connect and build together: [LinkedIn](https://linkedin.com/in/nihatveaksoy) | [Website & Portfolio](https://nihataksoy.com)
